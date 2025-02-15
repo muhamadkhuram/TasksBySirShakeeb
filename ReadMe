@@ -1,0 +1,3 @@
+ /// No need for getch() method;
+//  [getch()] method sirf user sy signle input leny k liye use hota hai. agar apko user sy input nahi lena to apko getch() method ki zarurat nahi hoti.
+//  there is no need for getch() nor it has any particular reason to be used in this code.
