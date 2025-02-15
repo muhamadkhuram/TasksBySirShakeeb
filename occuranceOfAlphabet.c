@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// sir ny map {} in C nae parhaye;
+// but ye method map k sath hi kam kary ga;
+// warna aap ko variables define karny pary gy aCount, bCount, cCount etc.
+
 void main()
 {
     char str[100];       // Yeh ek array hae jo humara string store kary ga
@@ -31,4 +35,3 @@ void main()
         }
     }
 }
-
